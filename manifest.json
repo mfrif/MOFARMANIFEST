@@ -1,0 +1,38 @@
+{
+  "name": "MOFARSITE",
+  "short_name": "MOFARSITE",
+  "start_url": "https://www.mofar.site/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "Sebuah weblog yang berisi sinopsis film, komentar, dan review.",
+  "icons": [{
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhz7UEraRHQVk0jqcO74d3t8OqvwO3DGXfWDIGoM4XLJDXakK_fEF1pMibyYamOL2L4X0GJluoLs_Y5l_vkehU12pi-j_64clUN004DQik5cVimks5NX0rpawRU-p6Ywv5dPFInzpoytfvenaXwDDHW_SKL7FH6eqxQgOIzQCst5xaOn5kDNKE2nt20dA/s48/android-icon-48x48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzmzBbWQl0ApH5SVZnqiQ_4zNFpDck0nUm0zW-6CeSpvxctuxiBhvOD_Bru2CPC7MSOPAbtn7myo3awuSBL5DVTNtEmP2_8sW3o49aXGeuUrYCdhzM5YSLHyrU4WSRiG7sh2D3u8HXIbSFOEww-2tP5PBLLTJ_fTauwqgkVnpLPhYiN_TKibEFc1KYJA/s72/apple-icon-72x72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjanKBNAOczY1L2PFDn5dLCrEte4EC9MALFDDIF0wtCvLCVFQobaGl7KFkbg0cKzl5NYO1y8laUM20-UpCh0FdQRPEB8sVM3Mye98K5bBDLvUOssoV6X9s-JnYoEu4LBzWn-ThOsnWr2QLA2CCviKVtSC4ziNZg3PnORL5SlkglGqNvP4gWhyBpGPej6w/s96/favicon-96x96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbV78sVuyukfCTNlmy3Y6Bf2mXsOAj2AHZaCmy31S96YITQFfll0ymmsDNLlkplUCIPF0RtUi90se-aCziS7McTN_DPIIaRzF0sxMdDDAjdVoN9dYDgp17rUbsRydzuMwmC03cNY2kfIDlN-IHedyoVqqfTeDCiRuXY1EU4p19ExAtgKvwi4anwUyktg/s144/ms-icon-144x144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwyDCfyJZdVe42e5TnSMYSoyXgwFsqpgokzLu58XN0qbA8tSjhHWc3q5kEFqdIY2EWl28Q91f7qU2yU2HgJgUsG18tgX1hc168VYeHKG65eTmucJLnLAkil60HlGpe_C-_O0fgtIZRR4RjODv63rgSFUSeUbOWu23kSob2QE-cZZ3I9h9UTjbruLivyg/s180/apple-icon-180x180.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoIQgdrE-1Dvxd9PkP4l7kR1O2k0--hYAol880bBeJp4VcnQL7KuK9-HZ-NCRpTrOvubnqa1MHtYpthOFaImT_EpeU1jRAsAMBz93OXCjLRtumNdsEMmnnLeRYwMimP9TZ5cS5u7mmFbG8Wpdp91bHzTJ3tAGj8TqLKh-4_klFLi-514Ybu27KTdzrwQ/s192/android-icon-192x192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDnqoLCwrIAhkUFKzusBoSHEPQP2Q90rcuD-qOpAJ3LeqehZyZjcb1wzTnIOneh4sW0dK3otEo7vEl5meCDPQqNc99BdJtioi4yETErOKHFSxj7TOEUx5vWyOZkgMlCzliT-rmehA5HkpU1MccUiykO9sPbx2kiqhnC0CuLylJ81TMQoS_SQrRN751sA/s1600/android-chrome-512x512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
