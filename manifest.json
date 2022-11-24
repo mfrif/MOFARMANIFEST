@@ -1,11 +1,11 @@
 {
-  "name": "MOFARSITE",
-  "short_name": "MOFARSITE",
-  "start_url": "https://www.mofar.site/",
+  "name": "MOFAR",
+  "short_name": "MOFAR",
+  "start_url": "https://www.mofar.my.id/",
   "display": "standalone",
   "background_color": "#fff",
   "theme_color": "#C51162",
-  "description": "Sebuah weblog yang berisi sinopsis film, komentar, dan review.",
+  "description": "Hanya Semacam Blog Pribadi.",
   "icons": [{
     "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhz7UEraRHQVk0jqcO74d3t8OqvwO3DGXfWDIGoM4XLJDXakK_fEF1pMibyYamOL2L4X0GJluoLs_Y5l_vkehU12pi-j_64clUN004DQik5cVimks5NX0rpawRU-p6Ywv5dPFInzpoytfvenaXwDDHW_SKL7FH6eqxQgOIzQCst5xaOn5kDNKE2nt20dA/s48/android-icon-48x48.png",
     "sizes": "48x48",
